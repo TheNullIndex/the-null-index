@@ -1,14 +1,1 @@
-the-null-index/
-├── index.html
-├── styles.css (or index.css)
-├── logs/
-│   ├── disappearances/
-│   │   └── disappear-001.html
-│   ├── signals/
-│   │   └── signal-001.html
-│   ├── casefiles/
-│   ├── null/
-│   │   └── null-001.html
-│   ├── chrono/
-│   │   └── chrono-001.html
-└── [other .css files]
+

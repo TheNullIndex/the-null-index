@@ -1,0 +1,25 @@
+ body.incident-report {
+  background-color: #f4f1e8;
+  color: #2c2c2c;
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  border-left: 2px solid #aaa;
+  border-right: 2px solid #aaa;
+}
+
+header, footer {
+  text-align: center;
+  font-family: 'Courier New', monospace;
+  color: #555;
+}
+
+blockquote {
+  font-style: italic;
+  color: #4e4e4e;
+  margin-left: 2em;
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+}

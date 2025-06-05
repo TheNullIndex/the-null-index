@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f4;
+  color: #1a1a1a;
+  line-height: 1.7;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+h1 {
+  font-size: 2rem;
+  border-bottom: 1px solid #ccc;
+}

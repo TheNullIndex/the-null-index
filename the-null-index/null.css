@@ -1,0 +1,45 @@
+body.null-theory {
+  background: linear-gradient(to bottom, #0a0a0a, #1a1a1a);
+  color: #d8d8d8;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.75;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 1px solid #333;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.03);
+}
+
+header, footer {
+  text-align: center;
+  color: #888;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+h1, h2 {
+  font-family: 'Segoe UI Mono', monospace;
+  color: #c7fffd;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+blockquote {
+  border-left: 4px solid #444;
+  margin-left: 2rem;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #a0a0a0;
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+nav a {
+  color: #70e1f5;
+  text-decoration: none;
+  border-bottom: 1px dashed #70e1f5;
+}
+
+nav a:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}

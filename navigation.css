@@ -1,0 +1,29 @@
+/* navigation.css — Shared nav styling across all pages */
+
+.top-nav {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+  font-family: 'Courier Prime', Courier, monospace;
+  background-color: transparent;
+}
+
+.nav-link {
+  color: #66ffe0;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 0 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ffffff;
+  text-shadow: 0 0 3px #00ffaa;
+}
+
+.divider {
+  color: #888;
+  padding: 0 0.25rem;
+}
